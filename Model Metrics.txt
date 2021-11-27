@@ -1,0 +1,22 @@
+
+Model Metrics
+
+
+Clustering:
+
+• K Means (n_clusters = 300)
+• DBSCAN (eps = 0.01, algorithm = ‘auto’)
+
+
+Collaborative Filtering:
+
+• SVD: { ’n_epochs’: 10, ‘lr_all’ : 0.005, ‘reg_all’ : 0.4 }
+• KNNWithMeans:  { ‘sim_options’ :  {‘name’: ‘msd’, ‘min_support’: 3, ‘user_based’ : True }}
+
+
+Cosine Similarity:
+
+• CountVectorizer (ngram_range = (1, 2), stop_words = ‘english’)
+• cosine_similarity (count_matrix)  <— all default parameters for this
+
+
