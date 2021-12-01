@@ -1,6 +1,6 @@
 # Movie Recommender System
 ### Background
-As a DJ, the art of deciding what to play next has always fascinated me. As I explored datasets for this capstone project, I realized a movie database is essentially a vast record collection. As I began researching I discovered recommender systems are an art-form in and of themselves.
+As a DJ, the art of deciding what to play next has always fascinated me. Curating and recommending content is a huge part of modern media consumption. As I explored datasets for this capstone project I realized a movie database is essentially a vast record collection. Recommender systems are integral in the digital age from streaming services to E-commerce. Knowing an audience and making a fruitful recommendation is an art-form ripe for exploration. 
 
 ![This is an image](Images/Screen%20Shot%202021-11-30%20at%206.46.10%20PM.png)
 ### The Data
