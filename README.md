@@ -1,6 +1,6 @@
 # Movie Recommender System
 ### Background
-As a DJ, the art of deciding what to play next has always fascinated me. As I explored datasets for this capstone project, I realized a movie database is essentially a vast record collection. As I began researching, I learning recommender systems are an artform in and or themselves.
+As a DJ, the art of deciding what to play next has always fascinated me. As I explored datasets for this capstone project, I realized a movie database is essentially a vast record collection. As I began researching I discovered recommender systems are an artform in and of themselves.
 
 ![This is an image](Images/Screen%20Shot%202021-11-30%20at%206.46.10%20PM.png)
 ### The Data
