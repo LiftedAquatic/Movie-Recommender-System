@@ -4,7 +4,7 @@ As a DJ, the art of deciding what to play next has always fascinated me. As I ex
 
 ![This is an image](Images/Screen%20Shot%202021-11-30%20at%206.46.10%20PM.png)
 ### The Data
-The dataset from Kaggle consisted of 45,000 movies. Those movies included expected information like title and genre. Extensive information such as the entire cast and crew was also available. Numeric metrics included information like budget and revenue. I cleaned and wrangled the data in preparaion for building my model. This step is contained in the Notebooks folder, it is titled [Data Wrangling](https://github.com/LiftedAquatic/Movie-Recommender-System/blob/main/Notebooks/Data%20Wrangling.ipynb).
+The [dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset) from Kaggle consisted of 45,000 movies. Those movies included expected information like title and genre. Extensive information such as the entire cast and crew was also available. Numeric metrics included information like budget and revenue. I cleaned and wrangled the data in preparaion for building my model. This step is contained in the Notebooks folder, it is titled [Data Wrangling](https://github.com/LiftedAquatic/Movie-Recommender-System/blob/main/Notebooks/Data%20Wrangling.ipynb).
 ### Exploratory Data Analysis
 Being that my overall project required an *unsupervised learning* approach with text-centric categorical data my EDA step was a bit minimal. I did a bit of exploratory analysis of some of the numerical data. This step is contained in the Notebooks folder, it is titled [Exploratory Data Analysis](https://github.com/LiftedAquatic/Movie-Recommender-System/blob/main/Notebooks/Exploratory%20Data%20Analysis.ipynb).
 ### Pre-processing
